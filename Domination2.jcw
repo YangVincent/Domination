@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Domination</label>
+		<id>40</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Domination2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Domination.jcp</path>
+		</project>
+	</projects>
+</workspace>
