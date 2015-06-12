@@ -10,7 +10,8 @@ This is a two player game, where each person sends different units towards
 the opponent on a grid. 
 ![Blue Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/BlueFightingBoltMonster/blue1.png)
 ![Red Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/RedFightingJuggernautMonster/red3.png)
-Sun Tzu: 
+
+####Sun Tzu: 
 > Build your opponent a golden bridge to retreat across
 
 ##Gameflow
