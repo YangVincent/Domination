@@ -12,8 +12,8 @@ the opponent on a grid.
 ![Blue Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/BlueFightingBoltMonster/blue1.png)
 ![Red Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/RedFightingJuggernautMonster/red3.png)
 
+**Sun Tzu**:
 > Build your opponent a golden bridge to retreat across
-> - Sun Tzu
 
 ##Gameflow
 People get in-game money periodically, which they can then use to buy more units
