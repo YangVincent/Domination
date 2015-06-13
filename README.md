@@ -15,6 +15,7 @@ This was designed to be a hybrid of
 This is a two player game, where each person sends different units towards
 the opponent on a grid. 
 
+Text 2
 
 ![Blue Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/BlueFightingBoltMonster/blue1.png)
 ![Red Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/RedFightingJuggernautMonster/red3.png)
