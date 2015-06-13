@@ -25,8 +25,34 @@ the opponent's side.
 ##Gameflow
 People get in-game money periodically, which they can then use to buy more units
 or powerups, such as extra health, etc.
+Through using the arrow keys as well as WASD, each player may control the row
+at which they deploy units. Meanwhile, they can press Enter or Space respectively
+to actually deploy each unit. 
+
+Units stop when they meet an enemy unit, and deal a set amount of damage until
+the target enemy loses all of its health. Standard Monsters cost less money
+to deploy but are weaker than certain others. Meanwhile, Juggernauts have a 
+great amount of health but very little damage. On the other hand, other Monsters
+are extremely quick and can cover considerable distances and spatial advantage
+over the opponent. In return, they have very little health and damage. 
+
+When a player has enough money, he or she can use the money to buy Monsters.
+Alternatively, he or she can use it to buy boosts. Boosts have different 
+capabilities - some restore health, others give extra strength. 
+
+Near the end of the project, I decided that there should also be cheats. This is
+merely for the purpose of being able to and enabling some certain advantages.
 
 ######Game Decisions
+I used VioletUML Creator to design and plan out my initial project via
+a UML. The UML went through many changes, as core portions of the project
+were shifted around and others were brought in place, such as the XML. This 
+actually went through several iterations - It started out as a two person
+tower defense game - Each person would be able to designate offenses
+and defenses on their sides of the grid, and the first player to breach
+the other's defenses would win the game. This idea was later scrapped as 
+it was not feasible within the limited timeframe given - a mere two weeks.
+
 I decided to use in-game sprites as opposed to gifs because gifs operated
 at different speeds depending on the computer. Also, certain gifs would
 not change to other actions at certain times. For this reason, I decided
