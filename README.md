@@ -3,10 +3,10 @@ This project was my final project for AP Computer Science
 at Homestead High School.
 
 ##Contents
-1. [Summary](#Summary)
-2. [Gameflow](#Gameflow)
-3. [Features](#Features)
-4. [Game Decisions](#Game Decisions)
+1. [Summary](#summary)
+2. [Gameflow](#gameflow)
+3. [Features](#features)
+4. [Game Decisions](#game-decisions)
 
 ##Summary
 This was designed to be a hybrid of 
