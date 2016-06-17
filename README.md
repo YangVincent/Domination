@@ -1,5 +1,5 @@
 # Domination
-[![Build Status](https://travis-ci.org/YangVincent/Domination)](https://travis-ci.org/YangVincent/Domination)
+[![Build Status](https://travis-ci.org/YangVincent/Domination.png)](https://travis-ci.org/YangVincent/Domination)
 This project was my final project for AP Computer Science
 at Homestead High School.
 
