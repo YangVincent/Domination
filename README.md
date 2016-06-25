@@ -22,7 +22,7 @@ This is a two player game, where each person sends different units towards
 the opponent on a grid. The game ends when a Monster reaches the lines of 
 the opponent's side. 
 
-Thorough documentation can be found [here](https://github.com/YangVincent/Domination/tree/master/JavaDocs)
+Thorough documentation can be found [here](http://yangvincent.github.io/Domination/JavaDocs/).
 
 ![Blue Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/BlueFightingBoltMonster/blue1.png)
 ![Red Bolt](https://github.com/YangVincent/Domination/blob/master/Animations/RedFightingJuggernautMonster/red3.png)
