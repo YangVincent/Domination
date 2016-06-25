@@ -3,6 +3,11 @@
 This project was my final project for AP Computer Science
 at Homestead High School.
 
+##Instructions
+1. ```git clone https://github.com/YangVincent/Domination.git```
+2. ```cd Domination```
+3. ```open Domination.jar```
+
 ##Contents
 1. [Summary](#summary)
 2. [Gameflow](#gameflow)
