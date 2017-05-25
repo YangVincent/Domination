@@ -3,18 +3,18 @@
 This project was my final project for AP Computer Science
 at Homestead High School.
 
-##Instructions
+## Instructions
 1. ```git clone https://github.com/YangVincent/Domination.git```
 2. ```cd Domination```
 3. ```open Domination.jar```
 
-##Contents
+## Contents
 1. [Summary](#summary)
 2. [Gameflow](#gameflow)
 3. [Features](#features)
 4. [Game Decisions](#game-decisions)
 
-##Summary
+## Summary
 This was designed to be a hybrid of 
 [Canyon Defense](http://www.miniclip.com/games/canyon-defense/en/#t-c-f-C) and
 [Double Edged](http://www.nitrome.com/games/doubleedged/#.VXtXShNViko).
@@ -30,7 +30,7 @@ Thorough documentation can be found [here](http://yangvincent.github.io/Dominati
 **Sun Tzu**:
 > Build your opponent a golden bridge to retreat across
 
-##Gameflow
+## Gameflow
 People get in-game money periodically, which they can then use to buy more units
 or powerups, such as extra health, etc.
 Through using the arrow keys as well as WASD, each player may control the row
@@ -51,7 +51,7 @@ capabilities - some restore health, others give extra strength.
 Near the end of the project, I decided that there should also be cheats. This is
 merely for the purpose of being able to and enabling some certain advantages.
 
-######Game Decisions
+###### Game Decisions
 I used VioletUML Creator to design and plan out my initial project via
 a UML. The UML went through many changes, as core portions of the project
 were shifted around and others were brought in place, such as the XML. This 
@@ -74,7 +74,7 @@ Monsters extend from others was a relatively simple one.
 
 
 
-##Features
+## Features
 * Sprites
 * Money
 * Store
